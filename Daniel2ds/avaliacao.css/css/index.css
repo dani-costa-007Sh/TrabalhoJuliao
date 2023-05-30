@@ -1,0 +1,12 @@
+*{
+  list-style: none;
+  text-decoration: none;
+}
+footer{
+  font-size: large;
+  color: pink;
+}
+body {
+  background-color: black;
+  color: white;
+}
